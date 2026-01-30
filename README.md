@@ -1,3 +1,8 @@
+> ⚠️ **This repository has moved to [ledger-suite](https://github.com/mcp-tool-shop/ledger-suite)**
+> Source now lives at: `src/CreatorLedger/`
+
+---
+
 # CreatorLedger
 
 Local-first cryptographic provenance for digital assets.
