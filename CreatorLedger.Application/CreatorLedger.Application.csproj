@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <RootNamespace>CreatorLedger.Application</RootNamespace>
+
+    <!-- Package metadata -->
+    <Description>Application services for CreatorLedger - verification, attestation, and proof bundle generation workflows.</Description>
+    <Authors>mcp-tool-shop</Authors>
+    <Company>MCP Tool Shop</Company>
+    <Copyright>Copyright (c) 2025-2026 MCP Tool Shop</Copyright>
+    <PackageProjectUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</RepositoryUrl>
+    <PackageTags>application;use-cases;clean-architecture</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

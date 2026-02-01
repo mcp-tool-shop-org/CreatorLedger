@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <RootNamespace>Shared.Crypto</RootNamespace>
+
+    <!-- Package metadata -->
+    <Description>Shared cryptographic primitives - Ed25519 signatures, SHA-256 hashing, and Canonical JSON for ledger projects.</Description>
+    <Authors>mcp-tool-shop</Authors>
+    <Company>MCP Tool Shop</Company>
+    <Copyright>Copyright (c) 2025-2026 MCP Tool Shop</Copyright>
+    <PackageProjectUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</RepositoryUrl>
+    <PackageTags>cryptography;ed25519;sha256;json</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

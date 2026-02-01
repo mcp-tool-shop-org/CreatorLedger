@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <RootNamespace>CreatorLedger.Domain</RootNamespace>
+
+    <!-- Package metadata -->
+    <Description>Domain model for CreatorLedger - cryptographic provenance for digital assets with Ed25519 attestations.</Description>
+    <Authors>mcp-tool-shop</Authors>
+    <Company>MCP Tool Shop</Company>
+    <Copyright>Copyright (c) 2025-2026 MCP Tool Shop</Copyright>
+    <PackageProjectUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mcp-tool-shop-org/CreatorLedger</RepositoryUrl>
+    <PackageTags>domain;provenance;cryptography;attestation;ddd</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
